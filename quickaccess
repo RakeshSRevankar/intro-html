@@ -1,0 +1,184 @@
+
+<!doctype html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="quickaccess">
+    <meta name="author" content="Rakesh">
+    <meta name="Keywords" content="HTML,CSS">
+    <meta name="viewport" content="width=device-width , initial-scale=1.0">
+    <meta http-equiv="refresh" content="20">
+<title>social media links</title>
+<style>
+img {
+width:100px;
+height:100px;
+border:2px solid blue;
+float:left;
+}
+div.a2 {
+background-color:blue;
+color:white;
+text-align:center;
+border:2px solid green;
+padding:1px;
+}
+span{
+color:white;
+background-color:blue;
+
+}
+
+#a1{
+font-size:20px;
+}
+div.r {
+background-color:rgba(200,100,100,0.2);
+text-align:left;
+}
+div.s{
+background-color:rgba(0,50,25,0.5);
+color:white;
+border:2px solid green;
+padding:1px;
+}
+div.k {
+background-color:tomato;
+color:white;
+border:2px solid green;
+padding:1px;
+
+}
+div.h{
+background-color:rgba(60,60,60,0.5);
+color:white;
+border:2px solid green;
+padding:1px;
+}
+div.m{
+background-color:rgba(120,120,60,0.5);
+color:white;
+border:2px solid green;
+padding:1px;
+}
+div.d{
+background-color:rgba(130,180,60,0.5);
+color:white;
+border:2px solid green;
+padding:1px;
+}
+address {
+text-align:center;
+}
+table,th,td{
+border:1px solid black;
+border-collapse:collapse;
+border-spacing:1px;
+padding:1px;
+}
+
+
+
+</style>
+</head>
+<body>
+
+<div class="a2">
+</h1> THE LINK to SOCIAL MEDIA</h1>
+<br>
+</h2> STAY CONNECT</h2>
+<br>
+
+</div>
+<hr>
+<a href="#link">jump to the end</a>
+<hr>
+
+
+<div class="r">
+<img src="C:\Users\Dell\Desktop\IMG_20190919_180301.jpg" alt="mypic" >
+<hr>
+<br>
+<p id="a1">hi I'm <span> Rakesh S Revankar</span> from SSIT</p>
+<br>
+</div>
+<hr>
+
+<div class="s">
+<a href="https://www.google.com">
+<img src="C:\Users\Dell\Desktop\stay-home-save-lives-april-23-copy-6753651837108787-s.png" alt="google pic" style="height:90px">
+<iframe src="https://www.google.com" style="border:none"> </iframe>
+</a>
+<p> click on this image  to accesse <span> <em><b> google</b></em></span></p>
+<br>
+</div>
+<hr>
+
+<div class="k">
+<a href="https://www.instragram.com\html\">
+<img src="C:\Users\Dell\Desktop\2.jpg" alt="instragram pic" >
+<iframe src="https://www.instragram.com" style="border:none"></iframe>
+</a>
+<p>click on this image to access <span> <em><b> instragram</b></em></span></p>
+<br>
+</div>
+<hr>
+
+<div class="h">
+<a href="https://www.facebook.com" >
+<img src="C:\Users\Dell\Desktop\1.png" alt="facebook pic">
+<iframe src="https://www.facebook.com" style="border:none"></iframe>
+</a>
+<p>click on this image to access <span> <em><b> facebook</b></em></span></p>
+<br>
+</div>
+<hr>
+
+<div class="m">
+<a href="https://www.linkedin.com" >
+<img src="C:\Users\Dell\Desktop\3.png" alt="linkedin pic">
+<iframe src="https://www.linkedin.com" style="border:none"></iframe>
+</a>
+<p>click on this image to access <span> <em><b> linkedin</b></em></span></p>
+<br>
+</div>
+<hr>
+
+<div class="d">
+<a href="https://www.amazon.in" >
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1216813945408966663%2FvkVajfRz_400x400.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fgoogle&tbnid=SUhW78kFDlzZ_M&vet=12ahUKEwjC99HWpoHpAhXYlEsFHSBbCw4QMygAegUIARCZAg..i&docid=dh3x9yWZ_LBfwM&w=400&h=400&q=google&ved=2ahUKEwjC99HWpoHpAhXYlEsFHSBbCw4QMygAegUIARCZAg.png" alt="amazon">
+<iframe src="https://www.amazon.in" style="border:none"></iframe>
+</a>
+<p>click on this image to access <span> <em><b> amazon</b></em></span></p>
+<br>
+</div>
+<hr>
+<h3 id="link"> <em>end</em><h3>
+<table width="100%">
+<tr>
+<th>Google</th>
+<th>Instragram</th>
+<th>Fcebook</th>
+<th>Linkedin</th>
+<th>Amazon</th>
+</tr>
+<tr>
+<td>https://www.google.com</td>
+<td>https://www.instragram.com\html\</td>
+<td>https://www.facebook.com</td>
+<td>https://www.linkedin.com</td>
+<td>https://www.amazon.in</td>
+</tr>
+<address><pre>
+<b>
+Rakesh S Revankar
+2nd cross neharu nagar sagar
+ph:-7259026164
+email:-rakeshsrevankar@gmail.com
+</b>
+</address>
+
+</body>
+
+
+</html>
